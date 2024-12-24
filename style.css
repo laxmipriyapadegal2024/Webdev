@@ -1,0 +1,29 @@
+div{
+  justify-content: center;
+  width: 50%;
+  margin-left: 25%;
+}
+img{
+  border:10px solid black;
+  align-self: center;
+  margin: 50px -10px;
+  width: 100%;
+}
+p{
+  color: darkseagreen;
+  text-align: center;
+}
+#cap1{
+  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-weight: thin;
+  font-style: normal;
+  font-size: 2rem;
+}
+#cap2{
+  font-family: "Roboto Condensed", serif;
+  font-optical-sizing: auto;
+  font-weight: thin;
+  font-style: normal;
+  font-size: 1.5rem;
+}
